@@ -8,7 +8,7 @@ Welcome to the QLora project, a biomedical language processing model based on in
 Large Language Models (LLMs), particularly those similar to ChatGPT, have significantly influenced the field of Natural Language Processing (NLP). While these models excel in general language tasks, their performance in domain-specific downstream tasks such as biomedical and clinical Named Entity Recognition (NER), Relation Extraction (RE), and Medical Natural Language Inference (NLI) is still evolving. 
 
 ## Dataset 
-[nlpie/Llama2-MedTuned-Instructions]([https://arxiv.org/abs/2401.00579](https://huggingface.co/datasets/nlpie/Llama2-MedTuned-Instructions)).
+[nlpie/Llama2-MedTuned-Instructions](https://huggingface.co/datasets/nlpie/Llama2-MedTuned-Instructions).
 
 ## Schematic representation of the model :
 ### model:

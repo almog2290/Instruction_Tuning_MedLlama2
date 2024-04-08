@@ -1,5 +1,6 @@
 # Biomedical Language Processing with Instruction Tuning (Llama2
-Welcome to the QLora project, a biomedical language processing model based on instruction tuning. This project is inspired by the research paper "Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing"[Paper](https://arxiv.org/abs/2401.00579).
+Welcome to the QLora project, a biomedical language processing model based on instruction tuning. This project is inspired by the research paper "Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing"
+[Link to the article](https://arxiv.org/abs/2401.00579).
 
 
 ## Overview

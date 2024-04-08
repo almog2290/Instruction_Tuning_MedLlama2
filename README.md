@@ -19,3 +19,7 @@ Large Language Models (LLMs), particularly those similar to ChatGPT, have signif
 
 ### Inference transformer concept : 
 ![image](https://github.com/almog2290/Instruction_Tuning_MedLlama2/assets/25738160/79901bcb-ff47-4cbc-bd7f-37f7e311e2e3)
+
+## Implementation
+
+The implementation of the project was carried out using the Kaggle platform, which provides a remote and computational work environment for data analysis and machine learning. This platform allows us to perform the training and testing of the model remotely, while maintaining efficiency and speed.
